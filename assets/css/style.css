@@ -1,0 +1,5 @@
+/*cuando es asterisco se aplica en todo*/
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;;
+    color: black; /*color de letra*/
+}
